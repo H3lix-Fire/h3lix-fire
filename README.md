@@ -1,9 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the H3 client, a Minecraft bedrock edition utility mod.
-- 🌱 I’m currently learning multiple hacking languages.
-- 👯 I’m looking to collaborate on a C# Minecraft Bedrock client.
-- 🤔 I’m looking for help with a C# Minecraft Bedrock client.
+- 🔭 I’m currently working on silent utility mod.
+- 🌱 I’m currently learning Kotlin.
 - 💬 Ask me about anything!
-- 📫 How to reach me: No way at the moment.
+- 📫 How to reach me: Discord, 4D Cube#9151
 - 😄 Pronouns: Male.
-- ⚡ Fun fact: I exist.
