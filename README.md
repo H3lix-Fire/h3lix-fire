@@ -11,4 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h3lix-fire&show_icons=true&locale=en" alt="h3lix-fire" /></p>
 </center> 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/780965574737788968)]
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/780965574737788968)
