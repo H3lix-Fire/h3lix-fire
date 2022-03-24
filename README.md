@@ -1,5 +1,5 @@
 <center>
-<h1 align="center">Hi, I'm H3lix fire! I enjoy programming, hacking, web development, etc. I'm not amazing at it, or even remotely talented in my opinion, but I know my way around a couple things.</h1>
+<h1 align="center">Hi! I'm H3lix... pretty obvious, anyways, welcome to my profile. I do a lot of random stuff, just because I can. Feel free to leave suggestions in my Discord dm's. (My Discord is at the bottom of this readme)</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3lix-fire&label=Profile%20views&color=0e75b6&style=flat" alt="h3lix-fire" /> </p>
 
@@ -11,3 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h3lix-fire&show_icons=true&locale=en" alt="h3lix-fire" /></p>
 </center> 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/780965574737788968)
