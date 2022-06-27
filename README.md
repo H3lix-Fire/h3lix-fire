@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm H3lix fire</h1>
-<h3 align="center">A broke developer from America.</h3>
+<h1 align="center">Hi, I'm H3lix fire</h1>
+<h3 align="center">A broke developer from the United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3lix-fire&label=Profile%20views&color=0e75b6&style=flat" alt="h3lix-fire" /> </p>
 
